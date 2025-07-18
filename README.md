@@ -30,13 +30,13 @@
 ## 📷 Screenshots
 
 <p align="">
-  <img src="screenshots/download.jpg" alt="Import view" width="200"/>
+  <img src="screenshots/download.png" alt="Import view" />
 </p><p align="">
-  <img src="screenshots/parse.jpg" alt="Resource parsed" width="200"/>
+  <img src="screenshots/parse.png" alt="Resource parsed"/>
 </p><p align="">
-  <img src="screenshots/recording.jpg" alt="Recording" width="200"/>
+  <img src="screenshots/recording.png" alt="Recording" />
   </p><p align="">
-  <img src="screenshots/downloaded.jpg" alt="Download History" width="200"/>
+  <img src="screenshots/downloaded.png" alt="Download History" />
   </p><p align="">
-  <img src="screenshots/sender.jpg" alt="Sender" width="200"/>
+  <img src="screenshots/sender.png" alt="Sender" />
 </p>
