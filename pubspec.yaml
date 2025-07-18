@@ -1,0 +1,77 @@
+name: bunny
+description: "Bunny video buddy"
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.3
+
+dependencies:
+  flutter:
+    sdk: flutter
+  path_provider: ^2.1.4
+  path: ^1.8.0
+  logger: ^2.3.0
+  bitsdojo_window:
+    path: ../bitsdojo_window/bitsdojo_window
+  go_router: ^15.2.0
+  json_annotation: ^4.9.0
+  url_launcher: ^6.3.1
+  file_selector: ^1.0.3
+  flutter_bloc: ^9.0.0
+  flutter_smart_dialog: ^4.9.8+3
+  intl: ^0.20.2
+  package_info_plus: ^8.1.0
+  html: ^0.15.4
+  air:
+    path: ../air/  
+  sharebox:
+    path: ../sharebox/  
+  uuid: ^4.5.1
+  easy_localization: ^3.0.7+1
+  process_run: ^1.2.2
+  isar: ^3.1.0+1
+  isar_flutter_libs: ^3.1.0+1
+  flutter_inappwebview: ^6.1.5
+  cached_network_image: ^3.4.1
+  crypto: ^3.0.6
+  flutter_js: ^0.8.1
+  archive: ^4.0.1
+  dio: ^5.7.0
+  fvp: ^0.32.1
+  video_player: ^2.10.0
+  mime: ^2.0.0
+  nsd: ^4.0.3
+  device_info_plus: ^11.1.1
+  network_info_plus: ^6.1.1
+  desktop_drop: #^0.5.0
+    path: ../flutter-plugins/packages/desktop_drop/
+  equatable: ^2.0.5
+  flutter_context_menu: ^0.2.0
+  file_picker: ^10.2.0
+  flutter_secure_storage: ^9.2.2
+  cryptography: ^2.7.0
+  cryptography_flutter: ^2.3.2
+  retry: ^3.1.2
+  snowflake_dart: ^2.0.0
+
+dependency_overrides:
+  # intl: ^0.20.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+  build_runner: ^2.4.13
+  json_serializable: ^6.8.0
+  mockito: ^5.0.0
+  # test: ^1.16.0
+  # isar_generator: ^3.1.0+1
+
+flutter:
+  # uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/images/devices/
+    - assets/langs/

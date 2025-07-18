@@ -1,0 +1,21 @@
+{
+    "title": "邦尼视频伴侣",
+    "menu":{
+        "video": "视频下载",
+        "info": "测试",
+        "browser": "在线流览",
+        "convert": "格式转换",
+        "setting": "设置",
+        "airdrop": "邦尼投送"
+    },
+    "ask": {
+        "file":"想要发送给你 {} 个文件",
+        "folder":"想要发送给你一个文件夹",
+        "rejected":"对方拒绝了你的请求"
+    },
+    "opening":"正在打开...",
+    "loading":"加载中...",
+    "online":"在线",
+    "offline":"离线",
+    "file_not_exist":"打开失败,本地文件不存在..."
+}

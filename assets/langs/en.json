@@ -1,0 +1,21 @@
+{
+    "title": "Video Buddy",
+    "menu": {
+        "video": "Video Download",
+        "info": "Testing",
+        "browser": "Online",
+        "convert": "Converter",
+        "setting": "Setting",
+        "airdrop": "Bunny Sender"
+    },
+    "ask": {
+        "file": "wants to send you {} file(s)",
+        "folder": "wants to send you a folder",
+        "rejected": "Your request was not accepted."
+    },
+    "opening": "Opening...",
+    "loading": "Loading...",
+    "online": "Online",
+    "offline": "Offline",
+    "file_not_exist": "The specified local file could not be found."
+}

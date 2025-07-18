@@ -1,0 +1,63 @@
+import 'package:flutter/material.dart';
+
+class Skin {
+  const Skin();
+
+  static const Color primary = Color.fromRGBO(13, 110, 253, 10);
+  static const Color secondary = Color.fromRGBO(108, 117, 125, 10);
+  static const Color success = Color.fromRGBO(25, 135, 84, 10);
+  static const Color info = Color.fromRGBO(13, 202, 240, 10);
+  static const Color warning = Color.fromRGBO(255, 193, 7, 10);
+  static const Color danger = Color.fromRGBO(220, 53, 69, 10);
+  static const Color light = Color.fromRGBO(248, 249, 250, 10);
+  static const Color dark = Color(0x8A000000);
+  static const Color white = Color.fromRGBO(255, 255, 255, 10);
+  static const Color black = Color.fromRGBO(0, 0, 0, 10);
+  static const Color blue = Color(0xff0d6efd);
+  static const Color indigo = Color(0xff6610f2);
+  static const Color purple = Color(0xff6f42c1);
+  static const Color pink = Color(0xffd63384);
+  static const Color red = Color(0xffdc3545);
+  static const Color orange = Color(0xfffd7e14);
+  static const Color yellow = Color(0xffffc107);
+  static const Color green = Color(0xff198754);
+  static const Color teal = Color(0xff20c997);
+  static const Color cyan = Color(0xff0dcaf0);
+  static const Color gray = Color(0xff6c757d);
+  static const Color grayDark = Color(0xff343a40);
+  static const Color gray100 = Color(0xfff8f9fa);
+  static const Color gray200 = Color(0xffe9ecef);
+  static const Color gray300 = Color(0xffdee2e6);
+  static const Color gray400 = Color(0xffced4da);
+  static const Color gray500 = Color(0xffadb5bd);
+  static const Color gray600 = Color(0xff6c757d);
+  static const Color gray700 = Color(0xff495057);
+  static const Color gray800 = Color(0xff343a40);
+  static const Color gray900 = Color(0xff212529);
+  static const Color primaryTextEmphasis = Color(0xff052c65);
+  static const Color secondaryTextEmphasis = Color(0xff2b2f32);
+  static const Color successTextEmphasis = Color(0xff0a3622);
+  static const Color infoTextEmphasis = Color(0xff055160);
+  static const Color warningTextEmphasis = Color(0xff664d03);
+  static const Color dangerTextEmphasis = Color(0xff58151c);
+  static const Color lightTextEmphasis = Color(0xff495057);
+  static const Color darkTextEmphasis = Color(0xff495057);
+  static const Color primaryBgSubtle = Color(0xffcfe2ff);
+  static const Color secondaryBgSubtle = Color(0xffe2e3e5);
+  static const Color successBgSubtle = Color(0xffd1e7dd);
+  static const Color infoBgSubtle = Color(0xffcff4fc);
+  static const Color warningBgSubtle = Color(0xfffff3cd);
+  static const Color dangerBgSubtle = Color(0xfff8d7da);
+  static const Color lightBgSubtle = Color(0xfffcfcfd);
+  static const Color darkBgSubtle = Color(0xffced4da);
+  static const Color primaryBorderSubtle = Color(0xff9ec5fe);
+  static const Color secondaryBorderSubtle = Color(0xffc4c8cb);
+  static const Color successBorderSubtle = Color(0xffa3cfbb);
+  static const Color infoBorderSubtle = Color(0xff9eeaf9);
+  static const Color warningBorderSubtle = Color(0xffffe69c);
+  static const Color dangerBorderSubtle = Color(0xfff1aeb5);
+  static const Color lightBorderSubtle = Color(0xffe9ecef);
+  static const Color darkBorderSubtle = Color(0xffadb5bd);
+
+  static const Color transparent = Colors.transparent;
+}
